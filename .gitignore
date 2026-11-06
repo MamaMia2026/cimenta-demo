@@ -1,0 +1,6 @@
+referinta/
+node_modules/
+.lighthouse/
+*.log
+.DS_Store
+Thumbs.db
